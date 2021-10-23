@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Curry</h1>
+        <img src="https://v1.nitrocdn.com/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-580dbe6/wp-content/uploads/2021/10/Japanese-Chicken-Curry-3769-II.jpg">
+    <h2>Description</h2>
+        <p>This is a curry recipe.</p>
+    <h2>Ingredients</h2>
+        <ul>
+            <li>3 onions</li>
+            <li>3 carrots</li>
+            <li>1 russet potato</li>
+            <li>8 mushrooms</li>
+            <li>2 lb beef</li>
+            <li>salt and pepper to taste</li>
+            <li>2 tbsp flour</li>
+            <li>2 tbsp olive oil</li>
+            <li>2 tbsp butter</li>
+            <li>seasonings to taste</li>
+        </ul>
+    <h2>Directions</h2>
+        <ol>
+            <li>Cook this stuff</li>
+            <li>Eat this stuff</li>
+        </ol>
+</body>
+</html>
